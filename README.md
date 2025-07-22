@@ -1,7 +1,7 @@
 
 
 # aibook
-### 배포 
+### 배포 (프리티어 종료로 인해 운영이 중지되었습니다)
 https://aibook-front.netlify.app/home
 ### 레포지토리
 [api 서버](https://github.com/kkkkimtaehyeon/aibook_api) - Java/SpringBoot
